@@ -1,0 +1,23 @@
+gui_name: "&a출석체크"
+gui_slot: 3
+
+items:
+  attendance_button:
+    slot: 13
+    material: PAPER
+    name: "&e출석하기!"
+    custom_model_data: 0
+    lore:
+      - ""
+      - "&e{player}&f님. 저를 클릭하여 출석 체크하세요!"
+      - ""
+
+  waiting_button:
+    slot: 13
+    material: BARRIER
+    name: "&c출석 불가"
+    custom_model_data: 0
+    lore:
+      - ""
+      - "&7남은 시간: &c{date}"
+      - ""

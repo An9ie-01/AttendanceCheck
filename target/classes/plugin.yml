@@ -1,0 +1,14 @@
+name: AttendanceCheck
+main: com.angie.attendancecheck.AttendanceCheck
+version: 1.0
+api-version: 1.20
+commands:
+  attendance:
+    aliases: [출첵, 출석, 출석체크]
+  attendanceadmin:
+permissions:
+  attendance.admin:
+    default: op
+
+softdepend:
+  - ItemsAdder

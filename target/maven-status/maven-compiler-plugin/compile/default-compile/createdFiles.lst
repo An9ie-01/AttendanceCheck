@@ -1,0 +1,10 @@
+com\angie\attendancecheck\AttendanceCheck.class
+com\angie\attendancecheck\gui\RewardGUI.class
+com\angie\attendancecheck\manager\RewardManager.class
+com\angie\attendancecheck\gui\AttendanceGUI.class
+com\angie\attendancecheck\command\AttendanceCommand.class
+com\angie\attendancecheck\command\AdminCommand.class
+com\angie\attendancecheck\listener\GUIListener.class
+com\angie\attendancecheck\manager\ConfigManager.class
+com\angie\attendancecheck\manager\AttendanceManager.class
+com\angie\attendancecheck\util\MessageUtil.class
